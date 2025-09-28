@@ -7,6 +7,12 @@ Sheepo helps you balance work and breaks by spawning sheep on your desktop shelf
 Sheepo 会在桌面底部生成小羊队列，用可爱的方式记录你的专注与休息，并通过解锁新主题让休息更有价值。  
 
 ---
+## 📄 Legal
+
+- [Terms of Service](TERMS.md) | [使用条款](TERMS.md)  
+- [Privacy Policy](PRIVACY.md) | [隐私政策](PRIVACY.md)
+
+---
 
 ## ✨ Features | 功能特色
 
@@ -59,11 +65,6 @@ Sheepo 会在桌面底部生成小羊队列，用可爱的方式记录你的专�
 
 
 
-## 📄 Legal
 
-- [Terms of Service](TERMS.md) | [使用条款](TERMS.md)  
-- [Privacy Policy](PRIVACY.md) | [隐私政策](PRIVACY.md)
-
----
 
 Maintainer | 维护者: [@maliaguaguahhh](https://github.com/maliaguaguahhh)  
