@@ -57,13 +57,12 @@ Sheepo 会在桌面底部生成小羊队列，用可爱的方式记录你的专�
 
 ---
 
-## 📊 Roadmap | 开发计划
 
-- ✅ Core focus/break cycle | 基础专注/休息循环  
-- ✅ Shelf sheep queue with animations | 小羊队列与入场动画  
-- ✅ Portal to settings, stats, and themes | 传送门 → 设置、统计、主题  
-- 🔜 More unlockable content & plush companions | 更多可解锁主题与角色  
-- 🔜 Enhanced statistics & streak tracking | 完善统计与连续天数追踪  
+
+## 📄 Legal
+
+- [Terms of Service](TERMS.md) | [使用条款](TERMS.md)  
+- [Privacy Policy](PRIVACY.md) | [隐私政策](PRIVACY.md)
 
 ---
 
