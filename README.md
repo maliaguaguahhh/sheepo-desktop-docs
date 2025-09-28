@@ -44,16 +44,6 @@ Sheepo 会在桌面底部生成小羊队列，用可爱的方式记录你的专�
 
 ---
 
-## 📦 Installation | 安装方法
-
-1. Download the latest release from [Releases](#) (link to be added).  
-   从 [Releases](#) 下载最新版本（待补充链接）。  
-2. Unzip and move **Sheepo Desktop.app** into your **Applications** folder.  
-   解压后，将 **Sheepo Desktop.app** 拖入 **应用程序（Applications）文件夹**。  
-3. On first launch, if macOS warns about the developer, open via **System Preferences → Security & Privacy → Still Open**.  
-   首次启动时，如果 macOS 提示“来自未知开发者”，请在 **系统偏好设置 → 安全性与隐私 → 仍要打开** 中允许。  
-
----
 
 ## 🛠 Tech Stack | 技术栈
 
