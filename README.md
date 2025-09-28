@@ -19,8 +19,7 @@ Sheepo 会在桌面底部生成小羊队列，用可爱的方式记录你的专�
 - **Focus & Rest Cycles | 专注与休息循环**  
   Set your preferred focus duration (e.g., 25/30 minutes). After each completed session, a sheep joins your desktop shelf.  
   设置专注时长（如 25/30 分钟）。每次专注完成后，会有一只小羊加入横条队列。  
-
-- **Break Rewards | 休息奖励**  
+- **Break Rewards | 休息奖励** 
   - Completed breaks → 🐑 High-Energy Sheep  
   - Skipped breaks → 🐑 Tired Sheep  
   - 完成休息 → 🐑 高能量羊  
