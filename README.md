@@ -22,6 +22,7 @@ Sheepo 会在桌面底部生成小羊队列，用可爱的方式记录你的专�
 <p align="center">
   <img src="demo2-min.gif" alt="Sheepo Screen Locker preview" width="600"/>
 </p>
+
 ---
 
 ## ✨ Features | 功能特色
