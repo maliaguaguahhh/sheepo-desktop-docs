@@ -1,104 +1,104 @@
-🐑 Sheepo Desktop – Privacy Policy
+# 🐑 Sheepo Desktop – Privacy Policy  
+**Last Updated:** October 24, 2025  
 
-Last Updated: October 22, 2025
+---
 
-⸻
+## 📌 1. Information We Collect  
+Sheepo Desktop collects only **anonymous, non-personal usage data** to help improve app performance and reliability.  
 
-📌 1. Information We Collect
+Specifically:  
+- The app uses **Firebase Analytics** (by Google) to measure general usage trends, such as app opens and active sessions;  
+- No personally identifiable information (such as name, email, IP address, or device identifier) is collected or stored;  
+- All data is collected **in aggregate and anonymized form**, solely for statistical purposes.  
 
-Sheepo Desktop does not collect, store, or share any personal data.
-	•	The app runs entirely on your local device;
-	•	No third-party analytics or tracking SDKs are integrated;
-	•	No name, email, location, or device identifiers are collected.
+> **Note:** Apple may also collect aggregated, anonymous usage data (e.g., installs, sessions, crashes) through **App Store Analytics**, if the user has opted in to “Share with App Developers” in macOS system settings. This Apple data is processed solely by Apple and not accessible to Sheepo Labs in any identifiable form.
 
-Note: Apple may collect aggregated, anonymous usage data (e.g., app installs, sessions, crashes) through App Store Analytics, if the user has opted in to “Share with App Developers” under macOS system settings.
-This data is processed solely by Apple and is not accessible in identifiable form to Sheepo Labs.
+---
 
-⸻
+## 🎯 2. How We Use the Data  
+- To understand general adoption and engagement (e.g., number of users, session counts);  
+- To monitor app stability and detect crashes via Firebase Analytics;  
+- To make design and performance improvements based on aggregate trends;  
+- We do **not** use the data for advertising, profiling, or personalized tracking.
 
-🎯 2. How We Use the Data
-	•	Sheepo Desktop itself does not collect or analyze user data;
-	•	All app settings and progress are saved locally on your Mac;
-	•	Aggregated analytics provided by Apple (if available) are used only to understand general app performance (e.g., installs, crash rates).
+---
 
-⸻
+## 🔒 3. Data Sharing  
+- Sheepo Desktop does **not sell or share** personal data with any third parties;  
+- Anonymous analytics data is processed by **Google Firebase**, in accordance with the [Google Privacy Policy](https://policies.google.com/privacy);  
+- App Store Analytics data, if available, is managed entirely by Apple.  
 
-🔒 3. Data Sharing
-	•	We do not sell, share, or transmit any personal data to third parties;
-	•	The app does not communicate with external servers;
-	•	Aggregated App Store Analytics are managed entirely by Apple.
+---
 
-⸻
+## ⏳ 4. Data Retention  
+- Firebase retains anonymous usage data for limited periods as defined in Google’s retention policies;  
+- There is **no server-side storage** operated by Sheepo Labs;  
+- Local preferences (such as language and session state) are stored only on your Mac and removed automatically when you uninstall the app.  
 
-⏳ 4. Data Retention
-	•	There is no server-side data retention;
-	•	Local preferences (language, last session) are stored only on your device and are deleted automatically when you uninstall the app.
+---
 
-⸻
+## 🙋 5. Your Rights  
+You remain in full control of your data:  
+- No personal or identifiable data is collected;  
+- You can delete the app at any time to remove all local settings;  
+- For Firebase data, you can refer to [Google’s Privacy & Security resources](https://policies.google.com/technologies/partner-sites) to learn more about their handling of analytics information.  
 
-🙋 5. Your Rights
+---
 
-You have full control over your data:
-	•	All data remains on your local device;
-	•	You can delete the app at any time to remove all associated local settings.
+## 📧 6. Contact  
+If you have any questions about this Privacy Policy, please contact us:  
+- **Email:** contact@sheepo.app  
 
-⸻
+---
 
-📧 6. Contact
+# 🐑 Sheepo Desktop – 隐私政策  
+**最后更新日期：** 2025 年 10 月 24 日  
 
-If you have any questions about this Privacy Policy, please contact us:
-	•	Email: contact@sheepo.app
+---
 
-⸻
+## 📌 一、我们收集的信息  
+Sheepo Desktop 仅收集**匿名的、非个人化的使用数据**，用于改进应用性能与稳定性。  
 
-🐑 Sheepo Desktop – 隐私政策
+具体包括：  
+- 应用使用 **Google Firebase Analytics** 服务，用于统计整体使用趋势（如启动次数、活跃时长等）；  
+- 不会收集姓名、邮箱、IP 地址或设备标识符等任何可识别个人身份的信息；  
+- 所有数据均经过**匿名化与汇总处理**，仅用于统计分析。  
 
-最后更新日期： 2025 年 10 月 22 日
+> **说明：** 若用户在 macOS 系统设置中开启了「与开发者共享分析数据」，  
+> Apple 可能会通过 **App Store 分析（App Analytics）** 收集匿名汇总数据（例如安装量、会话次数、崩溃率等）。  
+> 这些数据仅由 Apple 处理，Sheepo Labs 无法访问任何可识别个人身份的信息。  
 
-⸻
+---
 
-📌 一、我们收集的信息
+## 🎯 二、数据的使用方式  
+- 用于了解应用总体使用情况与用户活跃度（如用户数量、使用频率）；  
+- 监控应用稳定性与崩溃情况，以便改进体验；  
+- 所有数据仅作汇总分析用途，不用于广告、个性化推荐或行为追踪。  
 
-Sheepo Desktop 不会收集、存储或共享任何个人数据。
-	•	应用程序完全在您的本地设备上运行；
-	•	未集成任何第三方分析或追踪 SDK；
-	•	不会收集姓名、邮箱、位置信息或设备标识符。
+---
 
-说明： 若用户在 macOS 系统设置中开启了「与开发者共享分析数据」，
-Apple 可能会通过 App Store 分析（App Analytics） 收集匿名汇总数据（例如安装量、使用时长、崩溃率等）。
-这些数据仅由 Apple 处理，Sheepo Labs 无法访问任何可识别个人身份的信息。
+## 🔒 三、数据共享  
+- 我们不会向第三方出售或共享任何个人数据；  
+- 匿名统计数据由 **Google Firebase** 处理，遵循 [Google 隐私政策](https://policies.google.com/privacy)；  
+- 若存在 Apple 提供的分析数据，其全部由 Apple 独立管理。  
 
-⸻
+---
 
-🎯 二、数据的使用方式
-	•	Sheepo Desktop 本身不会收集或分析任何用户数据；
-	•	应用的所有设置与进度均仅保存在您的 Mac 本地；
-	•	若 Apple 提供汇总分析数据，我们仅用于了解整体应用表现（如安装量与崩溃率）。
+## ⏳ 四、数据保存  
+- Firebase 会在限定期限内保留匿名使用数据，具体依 Google 政策执行；  
+- 我们不进行任何服务器端数据存储；  
+- 本地偏好设置（如语言、上次使用状态）仅保存在您的设备中，卸载应用即可清除。  
 
-⸻
+---
 
-🔒 三、数据共享
-	•	我们不会出售、共享或传输任何个人数据给第三方；
-	•	应用程序不会与任何外部服务器通信；
-	•	所有 App Store 分析数据均由 Apple 独立管理。
+## 🙋 五、您的权利  
+您对所有数据拥有完全控制权：  
+- 我们不会收集可识别的个人信息；  
+- 您可随时删除应用以清除本地设置；  
+- 若需了解 Firebase 数据处理方式，可参阅 [Google 隐私与安全页面](https://policies.google.com/technologies/partner-sites)。  
 
-⸻
+---
 
-⏳ 四、数据保存
-	•	我们不进行任何服务器端数据保存；
-	•	本地偏好设置（如语言、上次使用状态）仅保存在您的设备中，删除应用即可清除。
-
-⸻
-
-🙋 五、您的权利
-
-您对所有数据拥有完全控制权：
-	•	所有数据均保留在本地设备；
-	•	删除应用即可清除所有相关设置。
-
-⸻
-
-📧 六、联系方式
-
-如对本隐私政策有任何疑问，请联系我们：
-	•	电子邮箱： contact@sheepo.app
+## 📧 六、联系方式  
+如对本隐私政策有任何疑问，请联系我们：  
+- **电子邮箱：** contact@sheepo.app  
