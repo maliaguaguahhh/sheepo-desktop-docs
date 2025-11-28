@@ -15,8 +15,39 @@ Sheepo 会在桌面底部生成小羊队列，用可爱的方式记录你的专�
 
 ---
 ## 🆕 What's New | 更新内容
+### v1.1
 
-### v1.1.0
+- **Hide Dock Sheepo | 隐藏 Dock 上的 Sheepo**  
+  If you prefer a clean workspace, you can now hide the Dock pet and keep Sheepo only in the menu bar.  
+  想要更干净的桌面，现在可以隐藏 Dock 上的 Sheepo，只在菜单栏里安静养羊。
+
+- **Smarter Break Reminder | 更聪明的休息提醒**  
+  Optional pre-break sound and a customizable countdown “tail” help you ease out of focus instead of being startled.  
+  新增休息前提示音与可自定义倒计时鼠标尾巴，让专注到休息的过渡更顺滑，不再被突然打断。
+
+- **Status Bar Controls | 菜单栏一键控制**  
+  See remaining focus time at a glance, and pause / resume / stop sessions directly from the menu bar.  
+  抬头就能看到剩余时间，并可在菜单栏一键暂停 / 继续 / 结束专注。
+
+- **Daily Yard Stats | 小院子「每日战绩」**  
+  Check how many sheep you unlocked and how long you focused/rested for each day.  
+  按天查看解锁了多少只羊，以及当天的专注 / 休息时长，让成就感一目了然。
+
+- **Traditional Chinese & Japanese | 新增繁体中文与日语**  
+  More friends can now use Sheepo in their own language.  
+  新增繁体中文和日语界面，更多伙伴可以一起养羊、一起好好休息。
+
+---
+  
+### v1.0.2
+
+- **Touch Bar Crash Fix | 触控栏机型崩溃修复**  
+  Fixed an issue where Sheepo could crash on launch or when starting focus sessions on MacBook Pro models with Touch Bar.  
+  修复了在带 Touch Bar 的 MacBook 上启动或开始专注时可能出现的崩溃问题，让所有设备都能稳定养羊。
+
+---
+
+### v1.0.1
 
 - **Onboarding Walkthrough | 新手引导流程**  
   First-time users will be guided through focus, rest, and unlocking via a step-by-step overlay.  
