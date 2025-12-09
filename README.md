@@ -15,6 +15,28 @@ Sheepo 会在桌面底部生成小羊队列，用可爱的方式记录你的专�
 
 ---
 ## 🆕 What's New | 更新内容
+### v1.1.1
+
+- **Korean Language Support | 新增韩语界面**  
+  Sheepo now speaks Korean! 💛 Thank you to all the new friends from Korea who joined us in version 1.1 — nearly half of our recent downloads came from Korea!  
+  Sheepo 现在支持韩语界面啦！💛 感谢在 1.1 版本加入的韩国朋友们，欢迎一起养羊、一起好好休息。
+
+- **Draggable Sheep Ranch | 小羊牧场自由排队**  
+  Drag and freely arrange your Sheepo ranch — line up your sheep into any cute formations you like, and they’ll remember their spots.  
+  现在可以自由拖动小羊，在牧场里排出任何你喜欢的队形，小羊们会乖乖记住自己的位置。
+
+- **Adjustable Portal Countdown | 传送门倒计时可调大小**  
+  You can now adjust the countdown timer size above the portal so it stays clear and readable, even on big or ultra-wide screens.  
+  传送门上方的倒计时现在可以调节大小，在大屏或超宽屏上也能清晰看到剩余时间。
+
+- **New Community Shortcuts | 一键加入 Sheepo 社群**  
+  Jump straight to our Reddit, Discord, and Xiaohongshu from inside the app — future events, updates, and little surprises will be announced there.  
+  在应用内即可一键打开我们的 Reddit、Discord 和小红书账号。后续活动、更新预告和小惊喜都会优先在那边发布。
+
+- **Bug Fixes & Polish | 细节优化与问题修复**  
+  Plus various small bug fixes and visual polish to make Sheepo feel smoother, cuter, and more reliable during your focus & rest cycles.  
+  同时修复了一些小问题，并打磨了细节表现，让 Sheepo 在陪你专注与休息时更加流畅稳固、萌度加倍。
+  
 ### v1.1
 
 - **Hide Dock Sheepo | 隐藏 Dock 上的 Sheepo**  
