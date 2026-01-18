@@ -15,6 +15,34 @@ Sheepo 会在桌面底部生成小羊队列，用可爱的方式记录你的专�
 
 ---
 ## 🆕 What's New | 更新内容
+### v1.1.3
+
+- **Auto-Pause Free Roaming | 自由溜达自动暂停**  
+  Free roaming will now auto-pause in the background to reduce memory usage and keep things smooth.  
+  自由溜达功能在后台会自动暂停，减轻内存负担，运行更顺畅。
+
+- **Onboarding Fixes | 新手引导问题修复**  
+  Fixed several onboarding bugs to make the first-time experience more stable and seamless.  
+  修复了一些 onboarding 的问题，让首次使用流程更稳定、更顺滑。
+  
+### v1.1.2
+
+- **Free Roam Mode | 牧场自由溜达**  
+  Sheepo can now roam around your ranch! 🐑  
+  Sheepo 现在可以在你的牧场里到处溜达啦！不再只待在固定位置，会自己散步巡逻。
+
+- **Christmas Theme | 圣诞主题上线**  
+  Christmas theme is here!! MERRY CHRISTMAS & HAPPY NEW YEAR! 🎄✨  
+  圣诞主题来啦！祝大家圣诞快乐、新年快乐！
+
+- **Data Saving Fix | 修复数据保存问题**  
+  Fixed an issue where some data wasn’t saved correctly.  
+  修复了部分情况下数据没有正确保存的问题，记录更稳定了。
+
+- **Multi-Screen Language Bug Fix | 修复多屏语言显示异常**  
+  Fixed a language display bug when using multiple screens.  
+  修复了在多屏幕使用时语言显示可能异常的问题。
+
 ### v1.1.1
 
 - **Korean Language Support | 新增韩语界面**  
